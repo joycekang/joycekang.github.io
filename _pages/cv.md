@@ -5,4 +5,4 @@ title: cv
 published: true
 ---
 
-[download](/assets/cv.pdf)
+[download](/assets/jbk_cv.pdf)
