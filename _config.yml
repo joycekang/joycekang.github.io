@@ -6,8 +6,8 @@ title: Joyce B. Kang # the website title (if blank, full name will be used inste
 first_name: Joyce
 middle_name: B.
 last_name: Kang
-contact_note: >
-  Always happy to connect over email!
+#contact_note: >
+#  Always happy to connect over email!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Based on [*folio](https://github.com/bogoli/-folio)
 footer_text: >

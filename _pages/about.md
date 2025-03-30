@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+*About*
+Hello, World! I'm an MD/PhD student at [Harvard-MIT](https://www.hms.harvard.edu/md_phd/index.html) and an incoming dermatology resident at the [University of Pennsylvania](https://dermatology.upenn.edu/), following a Transitional Year at [MSKCC](https://www.mskcc.org/hcp-education-training/residencies/medicine-transitional-year-residency). My PhD in the [Raychaudhuri Lab](https://sites.broadinstitute.org/immunogenomics) focused on building scalable computational algorithms for single-cell genomics and human genetics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+More recently, I've been exploring the intersection of AI and healthcare delivery. Alongside my training, I’ve worked as a data science consultant for companies including Prometheus Biosciences and Aditum Bio. Previously, I studied Computer Science at Stanford, where I wrote my honors thesis on metagenomics in the [Bhatt Lab](https://www.bhattlab.com/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+*Education*
+•	Dermatology Residency @ University of Pennsylvania (2026-29)
+•	Transitional Year @ Memorial Sloan Kettering Cancer Center (2025-26)
+•	MD @ Harvard-MIT Health Sciences & Technology (2018-25)
+•	PhD in Biomedical Informatics @ Harvard (2020-23)
+•	BS in Computer Science @ Stanford (2014-18)
