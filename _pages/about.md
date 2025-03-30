@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: joyce.b.kang [at] gmail.com
+#subtitle: joyce.b.kang [at] gmail.com
 
 profile:
   align: right
