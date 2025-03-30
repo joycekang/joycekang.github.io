@@ -39,8 +39,8 @@ Feel free to reach out if you'd like to connect, collaborate, or chat about derm
 
 **Education**
 
-- Dermatology Residency @ University of Pennsylvania (2026-29)
-- Transitional Year @ Memorial Sloan Kettering Cancer Center (2025-26)
-- MD @ Harvard-MIT Health Sciences & Technology (2018-25)
-- PhD in Biomedical Informatics @ Harvard (2020-23)
-- BS in Computer Science @ Stanford (2014-18)
+- **Dermatology Residency** @ University of Pennsylvania (2026-29)
+- **Transitional Year** @ Memorial Sloan Kettering Cancer Center (2025-26)
+- **MD** @ Harvard-MIT Health Sciences & Technology (2018-25)
+- **PhD in Biomedical Informatics** @ Harvard (2020-23)
+- **BS in Computer Science** @ Stanford (2014-18)
