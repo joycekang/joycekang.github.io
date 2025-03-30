@@ -35,6 +35,8 @@ My PhD in the [Raychaudhuri Lab](https://sites.broadinstitute.org/immunogenomics
 
 Previously, I studied Computer Science at Stanford, where I wrote my honors thesis on metagenomics in the [Bhatt Lab](https://www.bhattlab.com/).
 
+Feel free to reach out if you'd like to connect, collaborate, or chat about dermatology, data, or anything in between!
+
 **Education**
 
 - Dermatology Residency @ University of Pennsylvania (2026-29)
