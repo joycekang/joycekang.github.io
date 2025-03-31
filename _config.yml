@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Kang
-  first_name: Joyce Kang
+  last_name: [Kang]
+  first_name: [Joyce, JB, J, JB*]
 
   style: apa
   locale: en
