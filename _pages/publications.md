@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected research (see Google Scholar for all articles)
+description: Selected research (see [Google Scholar](https://scholar.google.com/citations?hl=en&user=vwpNE1kAAAAJ)) for all articles)
 nav: true
 nav_order: 2
 ---
