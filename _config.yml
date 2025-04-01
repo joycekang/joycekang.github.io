@@ -265,7 +265,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Kang, "JB"]
+  last_name: [Kang, "JB", "Kang*"]
   first_name: [Joyce, "JB", J, "JB*", "Joyce B", "Joyce B.", "Kang JB", Kang]
 
   style: apa
