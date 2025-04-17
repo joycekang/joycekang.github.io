@@ -33,7 +33,7 @@ Hello, World! I'm an MD/PhD student at [Harvard-MIT](https://www.hms.harvard.edu
 
 My PhD in the [Raychaudhuri Lab](https://sites.broadinstitute.org/immunogenomics) focused on building scalable computational algorithms for single-cell genomics and human genetics. Alongside my training, I’ve worked as a data science consultant for [Prometheus Biosciences](https://www.merck.com/news/merck-completes-acquisition-of-prometheus-biosciences-inc/) and venture intern at [Aditum Bio](https://www.aditumbio.com/). More recently, I've been exploring the intersection of AI and healthcare delivery.
 
-Previously, I studied Computer Science at Stanford, where I wrote my honors thesis on metagenomics in the [Bhatt Lab](https://www.bhattlab.com/).
+Previously, I studied Computer Science at [Stanford](https://www.cs.stanford.edu/), where I wrote my honors thesis on metagenomics in the [Bhatt Lab](https://www.bhattlab.com/).
 
 Feel free to reach out if you'd like to connect, collaborate, or chat about dermatology, data, or anything in between!
 
