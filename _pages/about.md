@@ -31,7 +31,7 @@ latest_posts:
 
 Hello, World! I'm an MD/PhD student at [Harvard-MIT](https://www.hms.harvard.edu/md_phd/index.html) and an incoming dermatology resident at the [University of Pennsylvania](https://dermatology.upenn.edu/), following a Transitional Year at [MSKCC](https://www.mskcc.org/hcp-education-training/residencies/medicine-transitional-year-residency). Clinically, I'm especially interested in immune-mediated and chronic diseases.
 
-My PhD in the [Raychaudhuri Lab](https://sites.broadinstitute.org/immunogenomics) focused on building scalable computational algorithms for single-cell genomics and human genetics. More recently, I've been exploring the intersection of AI and healthcare delivery. Alongside my training, I’ve worked as a data science consultant for [Prometheus Biosciences](https://www.merck.com/news/merck-completes-acquisition-of-prometheus-biosciences-inc/) and venture intern at [Aditum Bio](https://www.aditumbio.com/). 
+My PhD in the [Raychaudhuri Lab](https://sites.broadinstitute.org/immunogenomics) focused on building scalable computational algorithms for single-cell genomics and human genetics. Alongside my training, I’ve worked as a data science consultant for [Prometheus Biosciences](https://www.merck.com/news/merck-completes-acquisition-of-prometheus-biosciences-inc/) and venture intern at [Aditum Bio](https://www.aditumbio.com/). More recently, I've been exploring the intersection of AI and healthcare delivery.
 
 Previously, I studied Computer Science at Stanford, where I wrote my honors thesis on metagenomics in the [Bhatt Lab](https://www.bhattlab.com/).
 
